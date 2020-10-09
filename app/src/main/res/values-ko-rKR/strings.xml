@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nagging</string>
+    <string name="tab_text_1">알람</string>
+    <string name="tab_text_2">실험실</string>
+    <string name="tab_text_3">설정</string>
+    <string name="alarm_repeat">반복</string>
+    <string name="alarm_sound">소리</string>
+    <string name="alarm_save">저장</string>
+    <string name="alarm_hint">적으세요</string>
+    <string name="repeat_mon">월요일</string>
+    <string name="repeat_tue">화요일</string>
+    <string name="repeat_wed">수요일</string>
+    <string name="repeat_thu">목요일</string>
+    <string name="repeat_fri">금요일</string>
+    <string name="repeat_sat">토요일</string>
+    <string name="repeat_sun">일요일</string>
+    <string name="repeat_every">매일</string>
+    <string name="repeat_week">평일</string>
+    <string name="repeat_weekend">주말</string>
+    <string name="sound_vib">진동</string>
+    <string name="sound_vol">소리크기</string>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Nagging</string>
+    <string name="tab_text_1">Alarm</string>
+    <string name="tab_text_2">Lab</string>
+    <string name="tab_text_3">Setting</string>
+    <string name="alarm_repeat">Repeat</string>
+    <string name="alarm_sound">Sound</string>
+    <string name="alarm_save">Save</string>
+    <string name="alarm_hint">Set text to nag</string>
+
+    <string name="repeat_mon">Monday</string>
+    <string name="repeat_tue">Tuesday</string>
+    <string name="repeat_wed">Wednesday</string>
+    <string name="repeat_thu">Thursday</string>
+    <string name="repeat_fri">Friday</string>
+    <string name="repeat_sat">Saturday</string>
+    <string name="repeat_sun">Sunday</string>
+
+    <string name="repeat_every">Everyday</string>
+    <string name="repeat_week">Weekday</string>
+    <string name="repeat_weekend">Weekend</string>
+
+    <string name="sound_vib">Vibrate</string>
+    <string name="sound_vol">Volume</string>
+
+
+</resources>
